@@ -1,0 +1,9 @@
+body {
+    background-color: #DAF7A6;
+}
+p {
+    color: #581845;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+}
