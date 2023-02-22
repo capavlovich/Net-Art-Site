@@ -1,0 +1,28 @@
+body {
+    background-color: #DAF7A6;
+    width: 50%;
+    margin: auto;
+}
+* {
+    box-sizing: border-box;
+  }
+  .column {
+    float: left;
+    width: 45%;
+    padding: 5px;
+    padding-block: 5% 5%;
+  }
+  
+p {
+    color: #581845;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+    padding-block: 5% 5%;
+
+}
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding-block: 5% 5%;
+
+}
